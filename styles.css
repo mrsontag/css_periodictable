@@ -87,15 +87,23 @@
     width: 970px;
     padding: 20px 0px;
 }
+
 .lanthlabel {
     display:inline-block;
-    height: 46px;
-    width: 146px;
+    height: 26px;
+    padding: 20px 10px 0px 10px;
+    width: 114px;
     margin: 1px;
     border: 1px solid;
     border-color: #818897;
     font-size: 10px;
-    color: black;
+    color: red;
     text-align: center;
     vertical-align: top;
+    border: 0px;
+}
+
+.lanth > .hidn {
+    width: 25px;
+    text-align: right;
 }
